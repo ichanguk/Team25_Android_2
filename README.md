@@ -1,4 +1,9 @@
-# Team25_Android_2
+# 메디투게더 매니저앱
+
+<img src="https://github.com/user-attachments/assets/8fcad6d6-4464-40f5-b97f-048d49786a5d" width="300" height="150"/>
+<br>
+🏆 카카오 테크 캠퍼스 최종 산출물 29팀 중 우수상
+<br>
 
 ![메디투게더_매니저_그래픽](https://github.com/user-attachments/assets/aefa5ed6-c099-4247-b6b4-994026dd8d12)
 > 이 저장소는 병원 동행 서비스 매칭 플랫폼 메디 투게더의 매니저 전용 앱을 위한 저장소입니다.
